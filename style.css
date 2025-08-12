@@ -10,6 +10,10 @@
 .textbox{
     background-color: lightblue;
 }
+img{
+    display: block;
+    margin: 0 auto;
+}
 .title{
     font-size: 50px;
     text-align: center;
