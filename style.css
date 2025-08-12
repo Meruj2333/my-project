@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.title{
+    font-size: 50px;
+    text-align: center;
+}
+.text{
+    font-size: 20px;
+    text-align: center;
+}
+.submit{
+    padding: 10px 20px;
+    display: block;
+    margin:  30px auto;
+    background-color: blue;
+}
