@@ -7,6 +7,9 @@
     max-width: 1200px;
     margin: 0 auto;
 }
+.textbox{
+    background-color: lightblue;
+}
 .title{
     font-size: 50px;
     text-align: center;
